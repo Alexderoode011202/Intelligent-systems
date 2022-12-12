@@ -1,0 +1,10 @@
+assignment10.txt
+
+Appearantly the dataframe has 4825 messages classified as ham, and 747 messages classified as spam
+
+
+Write your answer here
+
+
+Answer here.
+
